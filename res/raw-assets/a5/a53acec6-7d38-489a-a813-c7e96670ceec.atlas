@@ -1,0 +1,76 @@
+
+fish12.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 54
+  size: 133, 274
+  orig: 135, 276
+  offset: 1, 1
+  index: -1
+1b
+  rotate: false
+  xy: 172, 285
+  size: 133, 274
+  orig: 135, 276
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 393, 689
+  size: 110, 274
+  orig: 112, 276
+  offset: 1, 1
+  index: -1
+2b
+  rotate: false
+  xy: 264, 2
+  size: 110, 274
+  orig: 112, 276
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 172, 763
+  size: 219, 200
+  orig: 221, 202
+  offset: 1, 1
+  index: -1
+3b
+  rotate: false
+  xy: 172, 561
+  size: 219, 200
+  orig: 221, 202
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 307, 278
+  size: 281, 125
+  orig: 283, 127
+  offset: 1, 1
+  index: -1
+4b
+  rotate: true
+  xy: 137, 2
+  size: 281, 125
+  orig: 283, 127
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 2, 330
+  size: 633, 168
+  orig: 635, 170
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 376, 33
+  size: 243, 106
+  orig: 245, 108
+  offset: 1, 1
+  index: -1

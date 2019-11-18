@@ -1,0 +1,2106 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "construction",
+  "json": [
+    {
+      "intensify_level": "1",
+      "construction_level": "1",
+      "name": "建造器",
+      "upgrade_cost": "1000",
+      "construction_cost": "4"
+    },
+    {
+      "intensify_level": "2",
+      "construction_level": "2",
+      "name": "建造器",
+      "upgrade_cost": "8000",
+      "construction_cost": "16"
+    },
+    {
+      "intensify_level": "3",
+      "construction_level": "3",
+      "name": "建造器",
+      "upgrade_cost": "27000",
+      "construction_cost": "36"
+    },
+    {
+      "intensify_level": "4",
+      "construction_level": "4",
+      "name": "建造器",
+      "upgrade_cost": "64000",
+      "construction_cost": "64"
+    },
+    {
+      "intensify_level": "5",
+      "construction_level": "5",
+      "name": "建造器",
+      "upgrade_cost": "125000",
+      "construction_cost": "100"
+    },
+    {
+      "intensify_level": "6",
+      "construction_level": "6",
+      "name": "建造器",
+      "upgrade_cost": "216000",
+      "construction_cost": "144"
+    },
+    {
+      "intensify_level": "7",
+      "construction_level": "7",
+      "name": "建造器",
+      "upgrade_cost": "343000",
+      "construction_cost": "196"
+    },
+    {
+      "intensify_level": "8",
+      "construction_level": "8",
+      "name": "建造器",
+      "upgrade_cost": "512000",
+      "construction_cost": "256"
+    },
+    {
+      "intensify_level": "9",
+      "construction_level": "9",
+      "name": "建造器",
+      "upgrade_cost": "729000",
+      "construction_cost": "324"
+    },
+    {
+      "intensify_level": "10",
+      "construction_level": "10",
+      "name": "建造器",
+      "upgrade_cost": "1000000",
+      "construction_cost": "400"
+    },
+    {
+      "intensify_level": "11",
+      "construction_level": "11",
+      "name": "建造器",
+      "upgrade_cost": "1331000",
+      "construction_cost": "484"
+    },
+    {
+      "intensify_level": "12",
+      "construction_level": "12",
+      "name": "建造器",
+      "upgrade_cost": "1728000",
+      "construction_cost": "576"
+    },
+    {
+      "intensify_level": "13",
+      "construction_level": "13",
+      "name": "建造器",
+      "upgrade_cost": "2197000",
+      "construction_cost": "676"
+    },
+    {
+      "intensify_level": "14",
+      "construction_level": "14",
+      "name": "建造器",
+      "upgrade_cost": "2744000",
+      "construction_cost": "784"
+    },
+    {
+      "intensify_level": "15",
+      "construction_level": "15",
+      "name": "建造器",
+      "upgrade_cost": "3375000",
+      "construction_cost": "900"
+    },
+    {
+      "intensify_level": "16",
+      "construction_level": "16",
+      "name": "建造器",
+      "upgrade_cost": "4096000",
+      "construction_cost": "1024"
+    },
+    {
+      "intensify_level": "17",
+      "construction_level": "17",
+      "name": "建造器",
+      "upgrade_cost": "4913000",
+      "construction_cost": "1156"
+    },
+    {
+      "intensify_level": "18",
+      "construction_level": "18",
+      "name": "建造器",
+      "upgrade_cost": "5832000",
+      "construction_cost": "1296"
+    },
+    {
+      "intensify_level": "19",
+      "construction_level": "19",
+      "name": "建造器",
+      "upgrade_cost": "6859000",
+      "construction_cost": "1444"
+    },
+    {
+      "intensify_level": "20",
+      "construction_level": "20",
+      "name": "建造器",
+      "upgrade_cost": "8000000",
+      "construction_cost": "1600"
+    },
+    {
+      "intensify_level": "21",
+      "construction_level": "21",
+      "name": "建造器",
+      "upgrade_cost": "9261000",
+      "construction_cost": "1764"
+    },
+    {
+      "intensify_level": "22",
+      "construction_level": "22",
+      "name": "建造器",
+      "upgrade_cost": "10648000",
+      "construction_cost": "1936"
+    },
+    {
+      "intensify_level": "23",
+      "construction_level": "23",
+      "name": "建造器",
+      "upgrade_cost": "12167000",
+      "construction_cost": "2116"
+    },
+    {
+      "intensify_level": "24",
+      "construction_level": "24",
+      "name": "建造器",
+      "upgrade_cost": "13824000",
+      "construction_cost": "2304"
+    },
+    {
+      "intensify_level": "25",
+      "construction_level": "25",
+      "name": "建造器",
+      "upgrade_cost": "15625000",
+      "construction_cost": "2500"
+    },
+    {
+      "intensify_level": "26",
+      "construction_level": "26",
+      "name": "建造器",
+      "upgrade_cost": "17576000",
+      "construction_cost": "2704"
+    },
+    {
+      "intensify_level": "27",
+      "construction_level": "27",
+      "name": "建造器",
+      "upgrade_cost": "19683000",
+      "construction_cost": "2916"
+    },
+    {
+      "intensify_level": "28",
+      "construction_level": "28",
+      "name": "建造器",
+      "upgrade_cost": "21952000",
+      "construction_cost": "3136"
+    },
+    {
+      "intensify_level": "29",
+      "construction_level": "29",
+      "name": "建造器",
+      "upgrade_cost": "24389000",
+      "construction_cost": "3364"
+    },
+    {
+      "intensify_level": "30",
+      "construction_level": "30",
+      "name": "建造器",
+      "upgrade_cost": "27000000",
+      "construction_cost": "3600"
+    },
+    {
+      "intensify_level": "31",
+      "construction_level": "31",
+      "name": "建造器",
+      "upgrade_cost": "29791000",
+      "construction_cost": "3844"
+    },
+    {
+      "intensify_level": "32",
+      "construction_level": "32",
+      "name": "建造器",
+      "upgrade_cost": "32768000",
+      "construction_cost": "4096"
+    },
+    {
+      "intensify_level": "33",
+      "construction_level": "33",
+      "name": "建造器",
+      "upgrade_cost": "35937000",
+      "construction_cost": "4356"
+    },
+    {
+      "intensify_level": "34",
+      "construction_level": "34",
+      "name": "建造器",
+      "upgrade_cost": "39304000",
+      "construction_cost": "4624"
+    },
+    {
+      "intensify_level": "35",
+      "construction_level": "35",
+      "name": "建造器",
+      "upgrade_cost": "42875000",
+      "construction_cost": "4900"
+    },
+    {
+      "intensify_level": "36",
+      "construction_level": "36",
+      "name": "建造器",
+      "upgrade_cost": "46656000",
+      "construction_cost": "5184"
+    },
+    {
+      "intensify_level": "37",
+      "construction_level": "37",
+      "name": "建造器",
+      "upgrade_cost": "50653000",
+      "construction_cost": "5476"
+    },
+    {
+      "intensify_level": "38",
+      "construction_level": "38",
+      "name": "建造器",
+      "upgrade_cost": "54872000",
+      "construction_cost": "5776"
+    },
+    {
+      "intensify_level": "39",
+      "construction_level": "39",
+      "name": "建造器",
+      "upgrade_cost": "59319000",
+      "construction_cost": "6084"
+    },
+    {
+      "intensify_level": "40",
+      "construction_level": "40",
+      "name": "建造器",
+      "upgrade_cost": "64000000",
+      "construction_cost": "6400"
+    },
+    {
+      "intensify_level": "41",
+      "construction_level": "41",
+      "name": "建造器",
+      "upgrade_cost": "68921000",
+      "construction_cost": "6724"
+    },
+    {
+      "intensify_level": "42",
+      "construction_level": "42",
+      "name": "建造器",
+      "upgrade_cost": "74088000",
+      "construction_cost": "7056"
+    },
+    {
+      "intensify_level": "43",
+      "construction_level": "43",
+      "name": "建造器",
+      "upgrade_cost": "79507000",
+      "construction_cost": "7396"
+    },
+    {
+      "intensify_level": "44",
+      "construction_level": "44",
+      "name": "建造器",
+      "upgrade_cost": "85184000",
+      "construction_cost": "7744"
+    },
+    {
+      "intensify_level": "45",
+      "construction_level": "45",
+      "name": "建造器",
+      "upgrade_cost": "91125000",
+      "construction_cost": "8100"
+    },
+    {
+      "intensify_level": "46",
+      "construction_level": "46",
+      "name": "建造器",
+      "upgrade_cost": "97336000",
+      "construction_cost": "8464"
+    },
+    {
+      "intensify_level": "47",
+      "construction_level": "47",
+      "name": "建造器",
+      "upgrade_cost": "103823000",
+      "construction_cost": "8836"
+    },
+    {
+      "intensify_level": "48",
+      "construction_level": "48",
+      "name": "建造器",
+      "upgrade_cost": "110592000",
+      "construction_cost": "9216"
+    },
+    {
+      "intensify_level": "49",
+      "construction_level": "49",
+      "name": "建造器",
+      "upgrade_cost": "117649000",
+      "construction_cost": "9604"
+    },
+    {
+      "intensify_level": "50",
+      "construction_level": "50",
+      "name": "建造器",
+      "upgrade_cost": "125000000",
+      "construction_cost": "10000"
+    },
+    {
+      "intensify_level": "51",
+      "construction_level": "51",
+      "name": "建造器",
+      "upgrade_cost": "132651000",
+      "construction_cost": "10404"
+    },
+    {
+      "intensify_level": "52",
+      "construction_level": "52",
+      "name": "建造器",
+      "upgrade_cost": "140608000",
+      "construction_cost": "10816"
+    },
+    {
+      "intensify_level": "53",
+      "construction_level": "53",
+      "name": "建造器",
+      "upgrade_cost": "148877000",
+      "construction_cost": "11236"
+    },
+    {
+      "intensify_level": "54",
+      "construction_level": "54",
+      "name": "建造器",
+      "upgrade_cost": "157464000",
+      "construction_cost": "11664"
+    },
+    {
+      "intensify_level": "55",
+      "construction_level": "55",
+      "name": "建造器",
+      "upgrade_cost": "166375000",
+      "construction_cost": "12100"
+    },
+    {
+      "intensify_level": "56",
+      "construction_level": "56",
+      "name": "建造器",
+      "upgrade_cost": "175616000",
+      "construction_cost": "12544"
+    },
+    {
+      "intensify_level": "57",
+      "construction_level": "57",
+      "name": "建造器",
+      "upgrade_cost": "185193000",
+      "construction_cost": "12996"
+    },
+    {
+      "intensify_level": "58",
+      "construction_level": "58",
+      "name": "建造器",
+      "upgrade_cost": "195112000",
+      "construction_cost": "13456"
+    },
+    {
+      "intensify_level": "59",
+      "construction_level": "59",
+      "name": "建造器",
+      "upgrade_cost": "205379000",
+      "construction_cost": "13924"
+    },
+    {
+      "intensify_level": "60",
+      "construction_level": "60",
+      "name": "建造器",
+      "upgrade_cost": "216000000",
+      "construction_cost": "14400"
+    },
+    {
+      "intensify_level": "61",
+      "construction_level": "61",
+      "name": "建造器",
+      "upgrade_cost": "226981000",
+      "construction_cost": "14884"
+    },
+    {
+      "intensify_level": "62",
+      "construction_level": "62",
+      "name": "建造器",
+      "upgrade_cost": "238328000",
+      "construction_cost": "15376"
+    },
+    {
+      "intensify_level": "63",
+      "construction_level": "63",
+      "name": "建造器",
+      "upgrade_cost": "250047000",
+      "construction_cost": "15876"
+    },
+    {
+      "intensify_level": "64",
+      "construction_level": "64",
+      "name": "建造器",
+      "upgrade_cost": "262144000",
+      "construction_cost": "16384"
+    },
+    {
+      "intensify_level": "65",
+      "construction_level": "65",
+      "name": "建造器",
+      "upgrade_cost": "274625000",
+      "construction_cost": "16900"
+    },
+    {
+      "intensify_level": "66",
+      "construction_level": "66",
+      "name": "建造器",
+      "upgrade_cost": "287496000",
+      "construction_cost": "17424"
+    },
+    {
+      "intensify_level": "67",
+      "construction_level": "67",
+      "name": "建造器",
+      "upgrade_cost": "300763000",
+      "construction_cost": "17956"
+    },
+    {
+      "intensify_level": "68",
+      "construction_level": "68",
+      "name": "建造器",
+      "upgrade_cost": "314432000",
+      "construction_cost": "18496"
+    },
+    {
+      "intensify_level": "69",
+      "construction_level": "69",
+      "name": "建造器",
+      "upgrade_cost": "328509000",
+      "construction_cost": "19044"
+    },
+    {
+      "intensify_level": "70",
+      "construction_level": "70",
+      "name": "建造器",
+      "upgrade_cost": "343000000",
+      "construction_cost": "19600"
+    },
+    {
+      "intensify_level": "71",
+      "construction_level": "71",
+      "name": "建造器",
+      "upgrade_cost": "357911000",
+      "construction_cost": "20164"
+    },
+    {
+      "intensify_level": "72",
+      "construction_level": "72",
+      "name": "建造器",
+      "upgrade_cost": "373248000",
+      "construction_cost": "20736"
+    },
+    {
+      "intensify_level": "73",
+      "construction_level": "73",
+      "name": "建造器",
+      "upgrade_cost": "389017000",
+      "construction_cost": "21316"
+    },
+    {
+      "intensify_level": "74",
+      "construction_level": "74",
+      "name": "建造器",
+      "upgrade_cost": "405224000",
+      "construction_cost": "21904"
+    },
+    {
+      "intensify_level": "75",
+      "construction_level": "75",
+      "name": "建造器",
+      "upgrade_cost": "421875000",
+      "construction_cost": "22500"
+    },
+    {
+      "intensify_level": "76",
+      "construction_level": "76",
+      "name": "建造器",
+      "upgrade_cost": "438976000",
+      "construction_cost": "23104"
+    },
+    {
+      "intensify_level": "77",
+      "construction_level": "77",
+      "name": "建造器",
+      "upgrade_cost": "456533000",
+      "construction_cost": "23716"
+    },
+    {
+      "intensify_level": "78",
+      "construction_level": "78",
+      "name": "建造器",
+      "upgrade_cost": "474552000",
+      "construction_cost": "24336"
+    },
+    {
+      "intensify_level": "79",
+      "construction_level": "79",
+      "name": "建造器",
+      "upgrade_cost": "493039000",
+      "construction_cost": "24964"
+    },
+    {
+      "intensify_level": "80",
+      "construction_level": "80",
+      "name": "建造器",
+      "upgrade_cost": "512000000",
+      "construction_cost": "25600"
+    },
+    {
+      "intensify_level": "81",
+      "construction_level": "81",
+      "name": "建造器",
+      "upgrade_cost": "531441000",
+      "construction_cost": "26244"
+    },
+    {
+      "intensify_level": "82",
+      "construction_level": "82",
+      "name": "建造器",
+      "upgrade_cost": "551368000",
+      "construction_cost": "26896"
+    },
+    {
+      "intensify_level": "83",
+      "construction_level": "83",
+      "name": "建造器",
+      "upgrade_cost": "571787000",
+      "construction_cost": "27556"
+    },
+    {
+      "intensify_level": "84",
+      "construction_level": "84",
+      "name": "建造器",
+      "upgrade_cost": "592704000",
+      "construction_cost": "28224"
+    },
+    {
+      "intensify_level": "85",
+      "construction_level": "85",
+      "name": "建造器",
+      "upgrade_cost": "614125000",
+      "construction_cost": "28900"
+    },
+    {
+      "intensify_level": "86",
+      "construction_level": "86",
+      "name": "建造器",
+      "upgrade_cost": "636056000",
+      "construction_cost": "29584"
+    },
+    {
+      "intensify_level": "87",
+      "construction_level": "87",
+      "name": "建造器",
+      "upgrade_cost": "658503000",
+      "construction_cost": "30276"
+    },
+    {
+      "intensify_level": "88",
+      "construction_level": "88",
+      "name": "建造器",
+      "upgrade_cost": "681472000",
+      "construction_cost": "30976"
+    },
+    {
+      "intensify_level": "89",
+      "construction_level": "89",
+      "name": "建造器",
+      "upgrade_cost": "704969000",
+      "construction_cost": "31684"
+    },
+    {
+      "intensify_level": "90",
+      "construction_level": "90",
+      "name": "建造器",
+      "upgrade_cost": "729000000",
+      "construction_cost": "32400"
+    },
+    {
+      "intensify_level": "91",
+      "construction_level": "91",
+      "name": "建造器",
+      "upgrade_cost": "753571000",
+      "construction_cost": "33124"
+    },
+    {
+      "intensify_level": "92",
+      "construction_level": "92",
+      "name": "建造器",
+      "upgrade_cost": "778688000",
+      "construction_cost": "33856"
+    },
+    {
+      "intensify_level": "93",
+      "construction_level": "93",
+      "name": "建造器",
+      "upgrade_cost": "804357000",
+      "construction_cost": "34596"
+    },
+    {
+      "intensify_level": "94",
+      "construction_level": "94",
+      "name": "建造器",
+      "upgrade_cost": "830584000",
+      "construction_cost": "35344"
+    },
+    {
+      "intensify_level": "95",
+      "construction_level": "95",
+      "name": "建造器",
+      "upgrade_cost": "857375000",
+      "construction_cost": "36100"
+    },
+    {
+      "intensify_level": "96",
+      "construction_level": "96",
+      "name": "建造器",
+      "upgrade_cost": "884736000",
+      "construction_cost": "36864"
+    },
+    {
+      "intensify_level": "97",
+      "construction_level": "97",
+      "name": "建造器",
+      "upgrade_cost": "912673000",
+      "construction_cost": "37636"
+    },
+    {
+      "intensify_level": "98",
+      "construction_level": "98",
+      "name": "建造器",
+      "upgrade_cost": "941192000",
+      "construction_cost": "38416"
+    },
+    {
+      "intensify_level": "99",
+      "construction_level": "99",
+      "name": "建造器",
+      "upgrade_cost": "970299000",
+      "construction_cost": "39204"
+    },
+    {
+      "intensify_level": "100",
+      "construction_level": "100",
+      "name": "建造器",
+      "upgrade_cost": "1000000000",
+      "construction_cost": "40000"
+    },
+    {
+      "intensify_level": "101",
+      "construction_level": "101",
+      "name": "建造器",
+      "upgrade_cost": "1030301000",
+      "construction_cost": "40804"
+    },
+    {
+      "intensify_level": "102",
+      "construction_level": "102",
+      "name": "建造器",
+      "upgrade_cost": "1061208000",
+      "construction_cost": "41616"
+    },
+    {
+      "intensify_level": "103",
+      "construction_level": "103",
+      "name": "建造器",
+      "upgrade_cost": "1092727000",
+      "construction_cost": "42436"
+    },
+    {
+      "intensify_level": "104",
+      "construction_level": "104",
+      "name": "建造器",
+      "upgrade_cost": "1124864000",
+      "construction_cost": "43264"
+    },
+    {
+      "intensify_level": "105",
+      "construction_level": "105",
+      "name": "建造器",
+      "upgrade_cost": "1157625000",
+      "construction_cost": "44100"
+    },
+    {
+      "intensify_level": "106",
+      "construction_level": "106",
+      "name": "建造器",
+      "upgrade_cost": "1191016000",
+      "construction_cost": "44944"
+    },
+    {
+      "intensify_level": "107",
+      "construction_level": "107",
+      "name": "建造器",
+      "upgrade_cost": "1225043000",
+      "construction_cost": "45796"
+    },
+    {
+      "intensify_level": "108",
+      "construction_level": "108",
+      "name": "建造器",
+      "upgrade_cost": "1259712000",
+      "construction_cost": "46656"
+    },
+    {
+      "intensify_level": "109",
+      "construction_level": "109",
+      "name": "建造器",
+      "upgrade_cost": "1295029000",
+      "construction_cost": "47524"
+    },
+    {
+      "intensify_level": "110",
+      "construction_level": "110",
+      "name": "建造器",
+      "upgrade_cost": "1331000000",
+      "construction_cost": "48400"
+    },
+    {
+      "intensify_level": "111",
+      "construction_level": "111",
+      "name": "建造器",
+      "upgrade_cost": "1367631000",
+      "construction_cost": "49284"
+    },
+    {
+      "intensify_level": "112",
+      "construction_level": "112",
+      "name": "建造器",
+      "upgrade_cost": "1404928000",
+      "construction_cost": "50176"
+    },
+    {
+      "intensify_level": "113",
+      "construction_level": "113",
+      "name": "建造器",
+      "upgrade_cost": "1442897000",
+      "construction_cost": "51076"
+    },
+    {
+      "intensify_level": "114",
+      "construction_level": "114",
+      "name": "建造器",
+      "upgrade_cost": "1481544000",
+      "construction_cost": "51984"
+    },
+    {
+      "intensify_level": "115",
+      "construction_level": "115",
+      "name": "建造器",
+      "upgrade_cost": "1520875000",
+      "construction_cost": "52900"
+    },
+    {
+      "intensify_level": "116",
+      "construction_level": "116",
+      "name": "建造器",
+      "upgrade_cost": "1560896000",
+      "construction_cost": "53824"
+    },
+    {
+      "intensify_level": "117",
+      "construction_level": "117",
+      "name": "建造器",
+      "upgrade_cost": "1601613000",
+      "construction_cost": "54756"
+    },
+    {
+      "intensify_level": "118",
+      "construction_level": "118",
+      "name": "建造器",
+      "upgrade_cost": "1643032000",
+      "construction_cost": "55696"
+    },
+    {
+      "intensify_level": "119",
+      "construction_level": "119",
+      "name": "建造器",
+      "upgrade_cost": "1685159000",
+      "construction_cost": "56644"
+    },
+    {
+      "intensify_level": "120",
+      "construction_level": "120",
+      "name": "建造器",
+      "upgrade_cost": "1728000000",
+      "construction_cost": "57600"
+    },
+    {
+      "intensify_level": "121",
+      "construction_level": "121",
+      "name": "建造器",
+      "upgrade_cost": "1771561000",
+      "construction_cost": "58564"
+    },
+    {
+      "intensify_level": "122",
+      "construction_level": "122",
+      "name": "建造器",
+      "upgrade_cost": "1815848000",
+      "construction_cost": "59536"
+    },
+    {
+      "intensify_level": "123",
+      "construction_level": "123",
+      "name": "建造器",
+      "upgrade_cost": "1860867000",
+      "construction_cost": "60516"
+    },
+    {
+      "intensify_level": "124",
+      "construction_level": "124",
+      "name": "建造器",
+      "upgrade_cost": "1906624000",
+      "construction_cost": "61504"
+    },
+    {
+      "intensify_level": "125",
+      "construction_level": "125",
+      "name": "建造器",
+      "upgrade_cost": "1953125000",
+      "construction_cost": "62500"
+    },
+    {
+      "intensify_level": "126",
+      "construction_level": "126",
+      "name": "建造器",
+      "upgrade_cost": "2000376000",
+      "construction_cost": "63504"
+    },
+    {
+      "intensify_level": "127",
+      "construction_level": "127",
+      "name": "建造器",
+      "upgrade_cost": "2048383000",
+      "construction_cost": "64516"
+    },
+    {
+      "intensify_level": "128",
+      "construction_level": "128",
+      "name": "建造器",
+      "upgrade_cost": "2097152000",
+      "construction_cost": "65536"
+    },
+    {
+      "intensify_level": "129",
+      "construction_level": "129",
+      "name": "建造器",
+      "upgrade_cost": "2146689000",
+      "construction_cost": "66564"
+    },
+    {
+      "intensify_level": "130",
+      "construction_level": "130",
+      "name": "建造器",
+      "upgrade_cost": "2197000000",
+      "construction_cost": "67600"
+    },
+    {
+      "intensify_level": "131",
+      "construction_level": "131",
+      "name": "建造器",
+      "upgrade_cost": "2248091000",
+      "construction_cost": "68644"
+    },
+    {
+      "intensify_level": "132",
+      "construction_level": "132",
+      "name": "建造器",
+      "upgrade_cost": "2299968000",
+      "construction_cost": "69696"
+    },
+    {
+      "intensify_level": "133",
+      "construction_level": "133",
+      "name": "建造器",
+      "upgrade_cost": "2352637000",
+      "construction_cost": "70756"
+    },
+    {
+      "intensify_level": "134",
+      "construction_level": "134",
+      "name": "建造器",
+      "upgrade_cost": "2406104000",
+      "construction_cost": "71824"
+    },
+    {
+      "intensify_level": "135",
+      "construction_level": "135",
+      "name": "建造器",
+      "upgrade_cost": "2460375000",
+      "construction_cost": "72900"
+    },
+    {
+      "intensify_level": "136",
+      "construction_level": "136",
+      "name": "建造器",
+      "upgrade_cost": "2515456000",
+      "construction_cost": "73984"
+    },
+    {
+      "intensify_level": "137",
+      "construction_level": "137",
+      "name": "建造器",
+      "upgrade_cost": "2571353000",
+      "construction_cost": "75076"
+    },
+    {
+      "intensify_level": "138",
+      "construction_level": "138",
+      "name": "建造器",
+      "upgrade_cost": "2628072000",
+      "construction_cost": "76176"
+    },
+    {
+      "intensify_level": "139",
+      "construction_level": "139",
+      "name": "建造器",
+      "upgrade_cost": "2685619000",
+      "construction_cost": "77284"
+    },
+    {
+      "intensify_level": "140",
+      "construction_level": "140",
+      "name": "建造器",
+      "upgrade_cost": "2744000000",
+      "construction_cost": "78400"
+    },
+    {
+      "intensify_level": "141",
+      "construction_level": "141",
+      "name": "建造器",
+      "upgrade_cost": "2803221000",
+      "construction_cost": "79524"
+    },
+    {
+      "intensify_level": "142",
+      "construction_level": "142",
+      "name": "建造器",
+      "upgrade_cost": "2863288000",
+      "construction_cost": "80656"
+    },
+    {
+      "intensify_level": "143",
+      "construction_level": "143",
+      "name": "建造器",
+      "upgrade_cost": "2924207000",
+      "construction_cost": "81796"
+    },
+    {
+      "intensify_level": "144",
+      "construction_level": "144",
+      "name": "建造器",
+      "upgrade_cost": "2985984000",
+      "construction_cost": "82944"
+    },
+    {
+      "intensify_level": "145",
+      "construction_level": "145",
+      "name": "建造器",
+      "upgrade_cost": "3048625000",
+      "construction_cost": "84100"
+    },
+    {
+      "intensify_level": "146",
+      "construction_level": "146",
+      "name": "建造器",
+      "upgrade_cost": "3112136000",
+      "construction_cost": "85264"
+    },
+    {
+      "intensify_level": "147",
+      "construction_level": "147",
+      "name": "建造器",
+      "upgrade_cost": "3176523000",
+      "construction_cost": "86436"
+    },
+    {
+      "intensify_level": "148",
+      "construction_level": "148",
+      "name": "建造器",
+      "upgrade_cost": "3241792000",
+      "construction_cost": "87616"
+    },
+    {
+      "intensify_level": "149",
+      "construction_level": "149",
+      "name": "建造器",
+      "upgrade_cost": "3307949000",
+      "construction_cost": "88804"
+    },
+    {
+      "intensify_level": "150",
+      "construction_level": "150",
+      "name": "建造器",
+      "upgrade_cost": "3375000000",
+      "construction_cost": "90000"
+    },
+    {
+      "intensify_level": "151",
+      "construction_level": "151",
+      "name": "建造器",
+      "upgrade_cost": "3442951000",
+      "construction_cost": "91204"
+    },
+    {
+      "intensify_level": "152",
+      "construction_level": "152",
+      "name": "建造器",
+      "upgrade_cost": "3511808000",
+      "construction_cost": "92416"
+    },
+    {
+      "intensify_level": "153",
+      "construction_level": "153",
+      "name": "建造器",
+      "upgrade_cost": "3581577000",
+      "construction_cost": "93636"
+    },
+    {
+      "intensify_level": "154",
+      "construction_level": "154",
+      "name": "建造器",
+      "upgrade_cost": "3652264000",
+      "construction_cost": "94864"
+    },
+    {
+      "intensify_level": "155",
+      "construction_level": "155",
+      "name": "建造器",
+      "upgrade_cost": "3723875000",
+      "construction_cost": "96100"
+    },
+    {
+      "intensify_level": "156",
+      "construction_level": "156",
+      "name": "建造器",
+      "upgrade_cost": "3796416000",
+      "construction_cost": "97344"
+    },
+    {
+      "intensify_level": "157",
+      "construction_level": "157",
+      "name": "建造器",
+      "upgrade_cost": "3869893000",
+      "construction_cost": "98596"
+    },
+    {
+      "intensify_level": "158",
+      "construction_level": "158",
+      "name": "建造器",
+      "upgrade_cost": "3944312000",
+      "construction_cost": "99856"
+    },
+    {
+      "intensify_level": "159",
+      "construction_level": "159",
+      "name": "建造器",
+      "upgrade_cost": "4019679000",
+      "construction_cost": "101124"
+    },
+    {
+      "intensify_level": "160",
+      "construction_level": "160",
+      "name": "建造器",
+      "upgrade_cost": "4096000000",
+      "construction_cost": "102400"
+    },
+    {
+      "intensify_level": "161",
+      "construction_level": "161",
+      "name": "建造器",
+      "upgrade_cost": "4173281000",
+      "construction_cost": "103684"
+    },
+    {
+      "intensify_level": "162",
+      "construction_level": "162",
+      "name": "建造器",
+      "upgrade_cost": "4251528000",
+      "construction_cost": "104976"
+    },
+    {
+      "intensify_level": "163",
+      "construction_level": "163",
+      "name": "建造器",
+      "upgrade_cost": "4330747000",
+      "construction_cost": "106276"
+    },
+    {
+      "intensify_level": "164",
+      "construction_level": "164",
+      "name": "建造器",
+      "upgrade_cost": "4410944000",
+      "construction_cost": "107584"
+    },
+    {
+      "intensify_level": "165",
+      "construction_level": "165",
+      "name": "建造器",
+      "upgrade_cost": "4492125000",
+      "construction_cost": "108900"
+    },
+    {
+      "intensify_level": "166",
+      "construction_level": "166",
+      "name": "建造器",
+      "upgrade_cost": "4574296000",
+      "construction_cost": "110224"
+    },
+    {
+      "intensify_level": "167",
+      "construction_level": "167",
+      "name": "建造器",
+      "upgrade_cost": "4657463000",
+      "construction_cost": "111556"
+    },
+    {
+      "intensify_level": "168",
+      "construction_level": "168",
+      "name": "建造器",
+      "upgrade_cost": "4741632000",
+      "construction_cost": "112896"
+    },
+    {
+      "intensify_level": "169",
+      "construction_level": "169",
+      "name": "建造器",
+      "upgrade_cost": "4826809000",
+      "construction_cost": "114244"
+    },
+    {
+      "intensify_level": "170",
+      "construction_level": "170",
+      "name": "建造器",
+      "upgrade_cost": "4913000000",
+      "construction_cost": "115600"
+    },
+    {
+      "intensify_level": "171",
+      "construction_level": "171",
+      "name": "建造器",
+      "upgrade_cost": "5000211000",
+      "construction_cost": "116964"
+    },
+    {
+      "intensify_level": "172",
+      "construction_level": "172",
+      "name": "建造器",
+      "upgrade_cost": "5088448000",
+      "construction_cost": "118336"
+    },
+    {
+      "intensify_level": "173",
+      "construction_level": "173",
+      "name": "建造器",
+      "upgrade_cost": "5177717000",
+      "construction_cost": "119716"
+    },
+    {
+      "intensify_level": "174",
+      "construction_level": "174",
+      "name": "建造器",
+      "upgrade_cost": "5268024000",
+      "construction_cost": "121104"
+    },
+    {
+      "intensify_level": "175",
+      "construction_level": "175",
+      "name": "建造器",
+      "upgrade_cost": "5359375000",
+      "construction_cost": "122500"
+    },
+    {
+      "intensify_level": "176",
+      "construction_level": "176",
+      "name": "建造器",
+      "upgrade_cost": "5451776000",
+      "construction_cost": "123904"
+    },
+    {
+      "intensify_level": "177",
+      "construction_level": "177",
+      "name": "建造器",
+      "upgrade_cost": "5545233000",
+      "construction_cost": "125316"
+    },
+    {
+      "intensify_level": "178",
+      "construction_level": "178",
+      "name": "建造器",
+      "upgrade_cost": "5639752000",
+      "construction_cost": "126736"
+    },
+    {
+      "intensify_level": "179",
+      "construction_level": "179",
+      "name": "建造器",
+      "upgrade_cost": "5735339000",
+      "construction_cost": "128164"
+    },
+    {
+      "intensify_level": "180",
+      "construction_level": "180",
+      "name": "建造器",
+      "upgrade_cost": "5832000000",
+      "construction_cost": "129600"
+    },
+    {
+      "intensify_level": "181",
+      "construction_level": "181",
+      "name": "建造器",
+      "upgrade_cost": "5929741000",
+      "construction_cost": "131044"
+    },
+    {
+      "intensify_level": "182",
+      "construction_level": "182",
+      "name": "建造器",
+      "upgrade_cost": "6028568000",
+      "construction_cost": "132496"
+    },
+    {
+      "intensify_level": "183",
+      "construction_level": "183",
+      "name": "建造器",
+      "upgrade_cost": "6128487000",
+      "construction_cost": "133956"
+    },
+    {
+      "intensify_level": "184",
+      "construction_level": "184",
+      "name": "建造器",
+      "upgrade_cost": "6229504000",
+      "construction_cost": "135424"
+    },
+    {
+      "intensify_level": "185",
+      "construction_level": "185",
+      "name": "建造器",
+      "upgrade_cost": "6331625000",
+      "construction_cost": "136900"
+    },
+    {
+      "intensify_level": "186",
+      "construction_level": "186",
+      "name": "建造器",
+      "upgrade_cost": "6434856000",
+      "construction_cost": "138384"
+    },
+    {
+      "intensify_level": "187",
+      "construction_level": "187",
+      "name": "建造器",
+      "upgrade_cost": "6539203000",
+      "construction_cost": "139876"
+    },
+    {
+      "intensify_level": "188",
+      "construction_level": "188",
+      "name": "建造器",
+      "upgrade_cost": "6644672000",
+      "construction_cost": "141376"
+    },
+    {
+      "intensify_level": "189",
+      "construction_level": "189",
+      "name": "建造器",
+      "upgrade_cost": "6751269000",
+      "construction_cost": "142884"
+    },
+    {
+      "intensify_level": "190",
+      "construction_level": "190",
+      "name": "建造器",
+      "upgrade_cost": "6859000000",
+      "construction_cost": "144400"
+    },
+    {
+      "intensify_level": "191",
+      "construction_level": "191",
+      "name": "建造器",
+      "upgrade_cost": "6967871000",
+      "construction_cost": "145924"
+    },
+    {
+      "intensify_level": "192",
+      "construction_level": "192",
+      "name": "建造器",
+      "upgrade_cost": "7077888000",
+      "construction_cost": "147456"
+    },
+    {
+      "intensify_level": "193",
+      "construction_level": "193",
+      "name": "建造器",
+      "upgrade_cost": "7189057000",
+      "construction_cost": "148996"
+    },
+    {
+      "intensify_level": "194",
+      "construction_level": "194",
+      "name": "建造器",
+      "upgrade_cost": "7301384000",
+      "construction_cost": "150544"
+    },
+    {
+      "intensify_level": "195",
+      "construction_level": "195",
+      "name": "建造器",
+      "upgrade_cost": "7414875000",
+      "construction_cost": "152100"
+    },
+    {
+      "intensify_level": "196",
+      "construction_level": "196",
+      "name": "建造器",
+      "upgrade_cost": "7529536000",
+      "construction_cost": "153664"
+    },
+    {
+      "intensify_level": "197",
+      "construction_level": "197",
+      "name": "建造器",
+      "upgrade_cost": "7645373000",
+      "construction_cost": "155236"
+    },
+    {
+      "intensify_level": "198",
+      "construction_level": "198",
+      "name": "建造器",
+      "upgrade_cost": "7762392000",
+      "construction_cost": "156816"
+    },
+    {
+      "intensify_level": "199",
+      "construction_level": "199",
+      "name": "建造器",
+      "upgrade_cost": "7880599000",
+      "construction_cost": "158404"
+    },
+    {
+      "intensify_level": "200",
+      "construction_level": "200",
+      "name": "建造器",
+      "upgrade_cost": "8000000000",
+      "construction_cost": "160000"
+    },
+    {
+      "intensify_level": "201",
+      "construction_level": "201",
+      "name": "建造器",
+      "upgrade_cost": "8120601000",
+      "construction_cost": "161604"
+    },
+    {
+      "intensify_level": "202",
+      "construction_level": "202",
+      "name": "建造器",
+      "upgrade_cost": "8242408000",
+      "construction_cost": "163216"
+    },
+    {
+      "intensify_level": "203",
+      "construction_level": "203",
+      "name": "建造器",
+      "upgrade_cost": "8365427000",
+      "construction_cost": "164836"
+    },
+    {
+      "intensify_level": "204",
+      "construction_level": "204",
+      "name": "建造器",
+      "upgrade_cost": "8489664000",
+      "construction_cost": "166464"
+    },
+    {
+      "intensify_level": "205",
+      "construction_level": "205",
+      "name": "建造器",
+      "upgrade_cost": "8615125000",
+      "construction_cost": "168100"
+    },
+    {
+      "intensify_level": "206",
+      "construction_level": "206",
+      "name": "建造器",
+      "upgrade_cost": "8741816000",
+      "construction_cost": "169744"
+    },
+    {
+      "intensify_level": "207",
+      "construction_level": "207",
+      "name": "建造器",
+      "upgrade_cost": "8869743000",
+      "construction_cost": "171396"
+    },
+    {
+      "intensify_level": "208",
+      "construction_level": "208",
+      "name": "建造器",
+      "upgrade_cost": "8998912000",
+      "construction_cost": "173056"
+    },
+    {
+      "intensify_level": "209",
+      "construction_level": "209",
+      "name": "建造器",
+      "upgrade_cost": "9129329000",
+      "construction_cost": "174724"
+    },
+    {
+      "intensify_level": "210",
+      "construction_level": "210",
+      "name": "建造器",
+      "upgrade_cost": "9261000000",
+      "construction_cost": "176400"
+    },
+    {
+      "intensify_level": "211",
+      "construction_level": "211",
+      "name": "建造器",
+      "upgrade_cost": "9393931000",
+      "construction_cost": "178084"
+    },
+    {
+      "intensify_level": "212",
+      "construction_level": "212",
+      "name": "建造器",
+      "upgrade_cost": "9528128000",
+      "construction_cost": "179776"
+    },
+    {
+      "intensify_level": "213",
+      "construction_level": "213",
+      "name": "建造器",
+      "upgrade_cost": "9663597000",
+      "construction_cost": "181476"
+    },
+    {
+      "intensify_level": "214",
+      "construction_level": "214",
+      "name": "建造器",
+      "upgrade_cost": "9800344000",
+      "construction_cost": "183184"
+    },
+    {
+      "intensify_level": "215",
+      "construction_level": "215",
+      "name": "建造器",
+      "upgrade_cost": "9938375000",
+      "construction_cost": "184900"
+    },
+    {
+      "intensify_level": "216",
+      "construction_level": "216",
+      "name": "建造器",
+      "upgrade_cost": "10077696000",
+      "construction_cost": "186624"
+    },
+    {
+      "intensify_level": "217",
+      "construction_level": "217",
+      "name": "建造器",
+      "upgrade_cost": "10218313000",
+      "construction_cost": "188356"
+    },
+    {
+      "intensify_level": "218",
+      "construction_level": "218",
+      "name": "建造器",
+      "upgrade_cost": "10360232000",
+      "construction_cost": "190096"
+    },
+    {
+      "intensify_level": "219",
+      "construction_level": "219",
+      "name": "建造器",
+      "upgrade_cost": "10503459000",
+      "construction_cost": "191844"
+    },
+    {
+      "intensify_level": "220",
+      "construction_level": "220",
+      "name": "建造器",
+      "upgrade_cost": "10648000000",
+      "construction_cost": "193600"
+    },
+    {
+      "intensify_level": "221",
+      "construction_level": "221",
+      "name": "建造器",
+      "upgrade_cost": "10793861000",
+      "construction_cost": "195364"
+    },
+    {
+      "intensify_level": "222",
+      "construction_level": "222",
+      "name": "建造器",
+      "upgrade_cost": "10941048000",
+      "construction_cost": "197136"
+    },
+    {
+      "intensify_level": "223",
+      "construction_level": "223",
+      "name": "建造器",
+      "upgrade_cost": "11089567000",
+      "construction_cost": "198916"
+    },
+    {
+      "intensify_level": "224",
+      "construction_level": "224",
+      "name": "建造器",
+      "upgrade_cost": "11239424000",
+      "construction_cost": "200704"
+    },
+    {
+      "intensify_level": "225",
+      "construction_level": "225",
+      "name": "建造器",
+      "upgrade_cost": "11390625000",
+      "construction_cost": "202500"
+    },
+    {
+      "intensify_level": "226",
+      "construction_level": "226",
+      "name": "建造器",
+      "upgrade_cost": "11543176000",
+      "construction_cost": "204304"
+    },
+    {
+      "intensify_level": "227",
+      "construction_level": "227",
+      "name": "建造器",
+      "upgrade_cost": "11697083000",
+      "construction_cost": "206116"
+    },
+    {
+      "intensify_level": "228",
+      "construction_level": "228",
+      "name": "建造器",
+      "upgrade_cost": "11852352000",
+      "construction_cost": "207936"
+    },
+    {
+      "intensify_level": "229",
+      "construction_level": "229",
+      "name": "建造器",
+      "upgrade_cost": "12008989000",
+      "construction_cost": "209764"
+    },
+    {
+      "intensify_level": "230",
+      "construction_level": "230",
+      "name": "建造器",
+      "upgrade_cost": "12167000000",
+      "construction_cost": "211600"
+    },
+    {
+      "intensify_level": "231",
+      "construction_level": "231",
+      "name": "建造器",
+      "upgrade_cost": "12326391000",
+      "construction_cost": "213444"
+    },
+    {
+      "intensify_level": "232",
+      "construction_level": "232",
+      "name": "建造器",
+      "upgrade_cost": "12487168000",
+      "construction_cost": "215296"
+    },
+    {
+      "intensify_level": "233",
+      "construction_level": "233",
+      "name": "建造器",
+      "upgrade_cost": "12649337000",
+      "construction_cost": "217156"
+    },
+    {
+      "intensify_level": "234",
+      "construction_level": "234",
+      "name": "建造器",
+      "upgrade_cost": "12812904000",
+      "construction_cost": "219024"
+    },
+    {
+      "intensify_level": "235",
+      "construction_level": "235",
+      "name": "建造器",
+      "upgrade_cost": "12977875000",
+      "construction_cost": "220900"
+    },
+    {
+      "intensify_level": "236",
+      "construction_level": "236",
+      "name": "建造器",
+      "upgrade_cost": "13144256000",
+      "construction_cost": "222784"
+    },
+    {
+      "intensify_level": "237",
+      "construction_level": "237",
+      "name": "建造器",
+      "upgrade_cost": "13312053000",
+      "construction_cost": "224676"
+    },
+    {
+      "intensify_level": "238",
+      "construction_level": "238",
+      "name": "建造器",
+      "upgrade_cost": "13481272000",
+      "construction_cost": "226576"
+    },
+    {
+      "intensify_level": "239",
+      "construction_level": "239",
+      "name": "建造器",
+      "upgrade_cost": "13651919000",
+      "construction_cost": "228484"
+    },
+    {
+      "intensify_level": "240",
+      "construction_level": "240",
+      "name": "建造器",
+      "upgrade_cost": "13824000000",
+      "construction_cost": "230400"
+    },
+    {
+      "intensify_level": "241",
+      "construction_level": "241",
+      "name": "建造器",
+      "upgrade_cost": "13997521000",
+      "construction_cost": "232324"
+    },
+    {
+      "intensify_level": "242",
+      "construction_level": "242",
+      "name": "建造器",
+      "upgrade_cost": "14172488000",
+      "construction_cost": "234256"
+    },
+    {
+      "intensify_level": "243",
+      "construction_level": "243",
+      "name": "建造器",
+      "upgrade_cost": "14348907000",
+      "construction_cost": "236196"
+    },
+    {
+      "intensify_level": "244",
+      "construction_level": "244",
+      "name": "建造器",
+      "upgrade_cost": "14526784000",
+      "construction_cost": "238144"
+    },
+    {
+      "intensify_level": "245",
+      "construction_level": "245",
+      "name": "建造器",
+      "upgrade_cost": "14706125000",
+      "construction_cost": "240100"
+    },
+    {
+      "intensify_level": "246",
+      "construction_level": "246",
+      "name": "建造器",
+      "upgrade_cost": "14886936000",
+      "construction_cost": "242064"
+    },
+    {
+      "intensify_level": "247",
+      "construction_level": "247",
+      "name": "建造器",
+      "upgrade_cost": "15069223000",
+      "construction_cost": "244036"
+    },
+    {
+      "intensify_level": "248",
+      "construction_level": "248",
+      "name": "建造器",
+      "upgrade_cost": "15252992000",
+      "construction_cost": "246016"
+    },
+    {
+      "intensify_level": "249",
+      "construction_level": "249",
+      "name": "建造器",
+      "upgrade_cost": "15438249000",
+      "construction_cost": "248004"
+    },
+    {
+      "intensify_level": "250",
+      "construction_level": "250",
+      "name": "建造器",
+      "upgrade_cost": "15625000000",
+      "construction_cost": "250000"
+    },
+    {
+      "intensify_level": "251",
+      "construction_level": "251",
+      "name": "建造器",
+      "upgrade_cost": "15813251000",
+      "construction_cost": "252004"
+    },
+    {
+      "intensify_level": "252",
+      "construction_level": "252",
+      "name": "建造器",
+      "upgrade_cost": "16003008000",
+      "construction_cost": "254016"
+    },
+    {
+      "intensify_level": "253",
+      "construction_level": "253",
+      "name": "建造器",
+      "upgrade_cost": "16194277000",
+      "construction_cost": "256036"
+    },
+    {
+      "intensify_level": "254",
+      "construction_level": "254",
+      "name": "建造器",
+      "upgrade_cost": "16387064000",
+      "construction_cost": "258064"
+    },
+    {
+      "intensify_level": "255",
+      "construction_level": "255",
+      "name": "建造器",
+      "upgrade_cost": "16581375000",
+      "construction_cost": "260100"
+    },
+    {
+      "intensify_level": "256",
+      "construction_level": "256",
+      "name": "建造器",
+      "upgrade_cost": "16777216000",
+      "construction_cost": "262144"
+    },
+    {
+      "intensify_level": "257",
+      "construction_level": "257",
+      "name": "建造器",
+      "upgrade_cost": "16974593000",
+      "construction_cost": "264196"
+    },
+    {
+      "intensify_level": "258",
+      "construction_level": "258",
+      "name": "建造器",
+      "upgrade_cost": "17173512000",
+      "construction_cost": "266256"
+    },
+    {
+      "intensify_level": "259",
+      "construction_level": "259",
+      "name": "建造器",
+      "upgrade_cost": "17373979000",
+      "construction_cost": "268324"
+    },
+    {
+      "intensify_level": "260",
+      "construction_level": "260",
+      "name": "建造器",
+      "upgrade_cost": "17576000000",
+      "construction_cost": "270400"
+    },
+    {
+      "intensify_level": "261",
+      "construction_level": "261",
+      "name": "建造器",
+      "upgrade_cost": "17779581000",
+      "construction_cost": "272484"
+    },
+    {
+      "intensify_level": "262",
+      "construction_level": "262",
+      "name": "建造器",
+      "upgrade_cost": "17984728000",
+      "construction_cost": "274576"
+    },
+    {
+      "intensify_level": "263",
+      "construction_level": "263",
+      "name": "建造器",
+      "upgrade_cost": "18191447000",
+      "construction_cost": "276676"
+    },
+    {
+      "intensify_level": "264",
+      "construction_level": "264",
+      "name": "建造器",
+      "upgrade_cost": "18399744000",
+      "construction_cost": "278784"
+    },
+    {
+      "intensify_level": "265",
+      "construction_level": "265",
+      "name": "建造器",
+      "upgrade_cost": "18609625000",
+      "construction_cost": "280900"
+    },
+    {
+      "intensify_level": "266",
+      "construction_level": "266",
+      "name": "建造器",
+      "upgrade_cost": "18821096000",
+      "construction_cost": "283024"
+    },
+    {
+      "intensify_level": "267",
+      "construction_level": "267",
+      "name": "建造器",
+      "upgrade_cost": "19034163000",
+      "construction_cost": "285156"
+    },
+    {
+      "intensify_level": "268",
+      "construction_level": "268",
+      "name": "建造器",
+      "upgrade_cost": "19248832000",
+      "construction_cost": "287296"
+    },
+    {
+      "intensify_level": "269",
+      "construction_level": "269",
+      "name": "建造器",
+      "upgrade_cost": "19465109000",
+      "construction_cost": "289444"
+    },
+    {
+      "intensify_level": "270",
+      "construction_level": "270",
+      "name": "建造器",
+      "upgrade_cost": "19683000000",
+      "construction_cost": "291600"
+    },
+    {
+      "intensify_level": "271",
+      "construction_level": "271",
+      "name": "建造器",
+      "upgrade_cost": "19902511000",
+      "construction_cost": "293764"
+    },
+    {
+      "intensify_level": "272",
+      "construction_level": "272",
+      "name": "建造器",
+      "upgrade_cost": "20123648000",
+      "construction_cost": "295936"
+    },
+    {
+      "intensify_level": "273",
+      "construction_level": "273",
+      "name": "建造器",
+      "upgrade_cost": "20346417000",
+      "construction_cost": "298116"
+    },
+    {
+      "intensify_level": "274",
+      "construction_level": "274",
+      "name": "建造器",
+      "upgrade_cost": "20570824000",
+      "construction_cost": "300304"
+    },
+    {
+      "intensify_level": "275",
+      "construction_level": "275",
+      "name": "建造器",
+      "upgrade_cost": "20796875000",
+      "construction_cost": "302500"
+    },
+    {
+      "intensify_level": "276",
+      "construction_level": "276",
+      "name": "建造器",
+      "upgrade_cost": "21024576000",
+      "construction_cost": "304704"
+    },
+    {
+      "intensify_level": "277",
+      "construction_level": "277",
+      "name": "建造器",
+      "upgrade_cost": "21253933000",
+      "construction_cost": "306916"
+    },
+    {
+      "intensify_level": "278",
+      "construction_level": "278",
+      "name": "建造器",
+      "upgrade_cost": "21484952000",
+      "construction_cost": "309136"
+    },
+    {
+      "intensify_level": "279",
+      "construction_level": "279",
+      "name": "建造器",
+      "upgrade_cost": "21717639000",
+      "construction_cost": "311364"
+    },
+    {
+      "intensify_level": "280",
+      "construction_level": "280",
+      "name": "建造器",
+      "upgrade_cost": "21952000000",
+      "construction_cost": "313600"
+    },
+    {
+      "intensify_level": "281",
+      "construction_level": "281",
+      "name": "建造器",
+      "upgrade_cost": "22188041000",
+      "construction_cost": "315844"
+    },
+    {
+      "intensify_level": "282",
+      "construction_level": "282",
+      "name": "建造器",
+      "upgrade_cost": "22425768000",
+      "construction_cost": "318096"
+    },
+    {
+      "intensify_level": "283",
+      "construction_level": "283",
+      "name": "建造器",
+      "upgrade_cost": "22665187000",
+      "construction_cost": "320356"
+    },
+    {
+      "intensify_level": "284",
+      "construction_level": "284",
+      "name": "建造器",
+      "upgrade_cost": "22906304000",
+      "construction_cost": "322624"
+    },
+    {
+      "intensify_level": "285",
+      "construction_level": "285",
+      "name": "建造器",
+      "upgrade_cost": "23149125000",
+      "construction_cost": "324900"
+    },
+    {
+      "intensify_level": "286",
+      "construction_level": "286",
+      "name": "建造器",
+      "upgrade_cost": "23393656000",
+      "construction_cost": "327184"
+    },
+    {
+      "intensify_level": "287",
+      "construction_level": "287",
+      "name": "建造器",
+      "upgrade_cost": "23639903000",
+      "construction_cost": "329476"
+    },
+    {
+      "intensify_level": "288",
+      "construction_level": "288",
+      "name": "建造器",
+      "upgrade_cost": "23887872000",
+      "construction_cost": "331776"
+    },
+    {
+      "intensify_level": "289",
+      "construction_level": "289",
+      "name": "建造器",
+      "upgrade_cost": "24137569000",
+      "construction_cost": "334084"
+    },
+    {
+      "intensify_level": "290",
+      "construction_level": "290",
+      "name": "建造器",
+      "upgrade_cost": "24389000000",
+      "construction_cost": "336400"
+    },
+    {
+      "intensify_level": "291",
+      "construction_level": "291",
+      "name": "建造器",
+      "upgrade_cost": "24642171000",
+      "construction_cost": "338724"
+    },
+    {
+      "intensify_level": "292",
+      "construction_level": "292",
+      "name": "建造器",
+      "upgrade_cost": "24897088000",
+      "construction_cost": "341056"
+    },
+    {
+      "intensify_level": "293",
+      "construction_level": "293",
+      "name": "建造器",
+      "upgrade_cost": "25153757000",
+      "construction_cost": "343396"
+    },
+    {
+      "intensify_level": "294",
+      "construction_level": "294",
+      "name": "建造器",
+      "upgrade_cost": "25412184000",
+      "construction_cost": "345744"
+    },
+    {
+      "intensify_level": "295",
+      "construction_level": "295",
+      "name": "建造器",
+      "upgrade_cost": "25672375000",
+      "construction_cost": "348100"
+    },
+    {
+      "intensify_level": "296",
+      "construction_level": "296",
+      "name": "建造器",
+      "upgrade_cost": "25934336000",
+      "construction_cost": "350464"
+    },
+    {
+      "intensify_level": "297",
+      "construction_level": "297",
+      "name": "建造器",
+      "upgrade_cost": "26198073000",
+      "construction_cost": "352836"
+    },
+    {
+      "intensify_level": "298",
+      "construction_level": "298",
+      "name": "建造器",
+      "upgrade_cost": "26463592000",
+      "construction_cost": "355216"
+    },
+    {
+      "intensify_level": "299",
+      "construction_level": "299",
+      "name": "建造器",
+      "upgrade_cost": "26730899000",
+      "construction_cost": "357604"
+    },
+    {
+      "intensify_level": "300",
+      "construction_level": "300",
+      "name": "建造器",
+      "upgrade_cost": "27000000000",
+      "construction_cost": "360000"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "b6zidonghebing",
+    "texture": "138f1edd0",
+    "rect": [
+      91,
+      306,
+      47,
+      26
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      57,
+      35
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

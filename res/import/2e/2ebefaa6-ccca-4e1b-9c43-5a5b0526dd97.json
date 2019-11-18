@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "a2": {
+      "__uuid__": "2ck6AAGPpKeK4oPOsigdOl"
+    },
+    "b1": {
+      "__uuid__": "77ST+6/mBKIK1Y8B1MF8m9"
+    },
+    "b4": {
+      "__uuid__": "0cFaR35AlH2Y+it7d+rqTc"
+    },
+    "b2": {
+      "__uuid__": "272kSRXMROopoAPhOs6ZU3"
+    },
+    "a2_p": {
+      "__uuid__": "f3OUmM9MpJuqZiSozwFRl8"
+    },
+    "back2": {
+      "__uuid__": "d2fs95Ig1IyY+ThKQW2wSb"
+    },
+    "c1": {
+      "__uuid__": "66YuQLFGNADawQg00AD3wK"
+    },
+    "c2": {
+      "__uuid__": "18ttbrPYZLqpITF6s2zqmY"
+    },
+    "a3": {
+      "__uuid__": "04CdqLqURBq4NYdaNa0yAb"
+    },
+    "升级": {
+      "__uuid__": "0bDD38xppMv6rea9FB5s0O"
+    },
+    "商店": {
+      "__uuid__": "243qsQqX1NHYBh/ktVPcqV"
+    },
+    "宝藏": {
+      "__uuid__": "75AD7I1xVNrJhUwfQHAmL9"
+    },
+    "鱼塘": {
+      "__uuid__": "e07z1tVC1DP4GPyqTfqBHo"
+    },
+    "a1": {
+      "__uuid__": "00c7nh34tJAamHBSiQeqf9"
+    },
+    "a0": {
+      "__uuid__": "6fY358AlNNP45Qsp6xmBf9"
+    },
+    "b3": {
+      "__uuid__": "f4+uRmQv1Kya/6ni985rBm"
+    },
+    "back1": {
+      "__uuid__": "093jPNSl5NwJKX9idyAHCh"
+    },
+    "gold2": {
+      "__uuid__": "523QL2B3RBV4/X+0MHwOfw"
+    },
+    "gold": {
+      "__uuid__": "67/jSpuw9D5bK2nKwKUB02"
+    },
+    "a4": {
+      "__uuid__": "3e93wsjtZOAIAaAXLFn9M3"
+    }
+  }
+}

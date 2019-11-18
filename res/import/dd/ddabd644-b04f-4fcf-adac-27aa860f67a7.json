@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "buildBack": {
+      "__uuid__": "4fcO94wT1GnbRFYC5R6Nm5"
+    },
+    "numb1": {
+      "__uuid__": "3fqTcoqJ9GAaCZxqJQFrZv"
+    },
+    "buildicon": {
+      "__uuid__": "19nOnU2H9NUYiOix0RgJwd"
+    },
+    "b3shuangbeijinbi": {
+      "__uuid__": "08kvYdRBZJn5hHX+qnptLa"
+    },
+    "a1youxijiasu": {
+      "__uuid__": "10YIuBZCROQ7ho5vMnUHv6"
+    },
+    "b6zidonghebing": {
+      "__uuid__": "fcYRjMtBVOQ5EU3HLh98uM"
+    },
+    "a5meirirenwu": {
+      "__uuid__": "4eYsNAtjRHF60unYpD77AM"
+    },
+    "a3shuangbeijinbi": {
+      "__uuid__": "18D3PFSXZIt5PoDG/3B10N"
+    },
+    "a2shuangbeihuoli": {
+      "__uuid__": "5bBdEiiPtDGpwsYWdPNvkv"
+    },
+    "a6zidonghebing": {
+      "__uuid__": "a5Cy5V/AVCUbGqAGaAa5aJ"
+    },
+    "upgrade": {
+      "__uuid__": "f1TvYkcaVProd0yGumkmDQ"
+    },
+    "b4xiaohui": {
+      "__uuid__": "c6pbaZFGNIPKlxdMjcghXM"
+    },
+    "b1youxijiasu": {
+      "__uuid__": "5ahR+nHLJJVI0OO1V3HmgS"
+    },
+    "mission": {
+      "__uuid__": "25pB4omuJFFIR22ekQLlbQ"
+    },
+    "b5meirirenwu": {
+      "__uuid__": "61ifiAyrtCGqlLMFnPPttE"
+    },
+    "buildlabel": {
+      "__uuid__": "6afgP8VpxIjI8Q7aludq1p"
+    },
+    "c1_2": {
+      "__uuid__": "deJiC+L5JFlpoe+4+ryi6c"
+    },
+    "c2_2": {
+      "__uuid__": "8bk8ckK8FGCafQ4Ea1c8mk"
+    },
+    "doublegold": {
+      "__uuid__": "80BKGpggtPMLHGwlfTZQrk"
+    },
+    "tip": {
+      "__uuid__": "595y4zCv5C7pa0W/UQeszo"
+    },
+    "doublefire": {
+      "__uuid__": "ddyUUMwGFDrJflYvRSw4IF"
+    },
+    "b2shuangbeihuoli": {
+      "__uuid__": "7cO+oh64xOEaQl+ghr5PtN"
+    },
+    "a4xiaohui": {
+      "__uuid__": "9350bG1qJNcavC/Xl+511X"
+    },
+    "getback": {
+      "__uuid__": "9d6yq9cRFGv7f8+8ugWeC4"
+    },
+    "c1": {
+      "__uuid__": "d5LLxWzhFJXa1e2YnjjcZk"
+    },
+    "c2": {
+      "__uuid__": "acj295yIxG/ZJMCCEew1ef"
+    },
+    "boss": {
+      "__uuid__": "f7LJy4CWhA65RliS4yyWz/"
+    },
+    "setting": {
+      "__uuid__": "e0GmbLrvFHUZVQUcGEXJ4O"
+    },
+    "auto": {
+      "__uuid__": "2dzqGqAP1LN4hYbzF0wWf0"
+    },
+    "buy": {
+      "__uuid__": "5byQjEDUtMdqsFWtgk5flx"
+    },
+    "level_3": {
+      "__uuid__": "43KFKwDNVEKoZ8rkSwJPHB"
+    },
+    "diamond": {
+      "__uuid__": "afcvY3RjxKqJEQINeDB+hZ"
+    },
+    "level_2": {
+      "__uuid__": "1aQFXvj4VD84HjYZm/B6Lb"
+    },
+    "level_1": {
+      "__uuid__": "cc4cAXpZBFBJ9DwGcgxIRm"
+    }
+  }
+}

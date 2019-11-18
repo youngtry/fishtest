@@ -1,0 +1,254 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "monster",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "monster",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "f7955gxAnNMGYIwjmvPmBc4",
+        "node": {
+          "__id__": 1
+        },
+        "damage": {
+          "__id__": 3
+        },
+        "fish": {
+          "__id__": 4
+        }
+      },
+      {
+        "__type__": "cc.PolygonCollider",
+        "node": {
+          "__id__": 1
+        },
+        "points": [
+          {
+            "__type__": "cc.Vec2",
+            "x": -11.5,
+            "y": -3.2
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -12,
+            "y": 0.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -11.1,
+            "y": 3.7
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -3.9,
+            "y": 7.6
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 8.7,
+            "y": 8.6
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 21.8,
+            "y": 12.8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 17.4,
+            "y": 8.3
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 31.8,
+            "y": 3.9
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 53.5,
+            "y": -0.3
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 31.9,
+            "y": -4
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 16.7,
+            "y": -8
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 22.4,
+            "y": -13.3
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": 8.8,
+            "y": -9
+          },
+          {
+            "__type__": "cc.Vec2",
+            "x": -3.3,
+            "y": -8
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3bS7EcI2RBKrrvMe7Q/N51"
+      },
+      "fileId": "71Vyj5KNdJ1J0T6xpr3BJQ"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 20,
+      "height": 20
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "damage",
+    "_parent": {
+      "__id__": 1
+    },
+    "_active": false,
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3bS7EcI2RBKrrvMe7Q/N51"
+      },
+      "fileId": "755r1vkfFFf72zoCZmWQmw"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 245,
+      "g": 10,
+      "b": 10
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40.03,
+      "height": 25.2
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        19.073999404907227,
+        28.611000061035156,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 2
+    },
+    "_materials": [
+      {
+        "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+      }
+    ],
+    "_useOriginalSize": false,
+    "_string": "-200",
+    "_N$string": "-200",
+    "_fontSize": 20,
+    "_lineHeight": 20,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "fish",
+    "_parent": {
+      "__id__": 1
+    },
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3bS7EcI2RBKrrvMe7Q/N51"
+      },
+      "fileId": "d2AZNxPSNJY4gPaNbgYLUI"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 745,
+      "height": 283.79
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        21.288999557495117,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.09000000357627869,
+        0.09000000357627869,
+        1
+      ]
+    }
+  }
+]

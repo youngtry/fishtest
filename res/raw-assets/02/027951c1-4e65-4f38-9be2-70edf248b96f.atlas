@@ -1,0 +1,20 @@
+
+fish06.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 622, 158
+  orig: 624, 160
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 626, 36
+  size: 133, 124
+  orig: 135, 126
+  offset: 1, 1
+  index: -1

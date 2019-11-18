@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "upgradebtn": {
+      "__uuid__": "84obSVpttEh6wMjRxmbhNw"
+    },
+    "upgrade": {
+      "__uuid__": "dcBFEIJyZL1rWWwO2xfjq6"
+    },
+    "title": {
+      "__uuid__": "6cpAC24tlDg6v0ng5B4fzn"
+    },
+    "back3": {
+      "__uuid__": "3dW6+KBjRLUb8oje/jb+h9"
+    },
+    "updagradecost": {
+      "__uuid__": "b1rhaltHpPI7MsWRQSxyzl"
+    },
+    "icon": {
+      "__uuid__": "a1j94uxpRIe4AEAeSdAe2C"
+    },
+    "back1": {
+      "__uuid__": "a3TpmY/PBFpag8S0SlSbCd"
+    },
+    "back2": {
+      "__uuid__": "f4UrImrX5B557bWjFGkE95"
+    }
+  }
+}

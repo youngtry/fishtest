@@ -1,0 +1,13 @@
+
+fish15.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish15
+  rotate: false
+  xy: 2, 2
+  size: 964, 360
+  orig: 964, 360
+  offset: 0, 0
+  index: -1

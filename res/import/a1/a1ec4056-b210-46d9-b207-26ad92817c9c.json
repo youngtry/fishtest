@@ -1,0 +1,198 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "unlock",
+  "json": [
+    {
+      "id": "1001",
+      "unlock_type": "1",
+      "unlock_content": "1",
+      "stage": "0"
+    },
+    {
+      "id": "1002",
+      "unlock_type": "1",
+      "unlock_content": "2",
+      "stage": "0"
+    },
+    {
+      "id": "1003",
+      "unlock_type": "1",
+      "unlock_content": "3",
+      "stage": "0"
+    },
+    {
+      "id": "1004",
+      "unlock_type": "1",
+      "unlock_content": "4",
+      "stage": "0"
+    },
+    {
+      "id": "1005",
+      "unlock_type": "1",
+      "unlock_content": "5",
+      "stage": "5"
+    },
+    {
+      "id": "1006",
+      "unlock_type": "1",
+      "unlock_content": "6",
+      "stage": "12"
+    },
+    {
+      "id": "1007",
+      "unlock_type": "1",
+      "unlock_content": "7",
+      "stage": "14"
+    },
+    {
+      "id": "1008",
+      "unlock_type": "1",
+      "unlock_content": "8",
+      "stage": "16"
+    },
+    {
+      "id": "1009",
+      "unlock_type": "1",
+      "unlock_content": "9",
+      "stage": "32"
+    },
+    {
+      "id": "1010",
+      "unlock_type": "1",
+      "unlock_content": "10",
+      "stage": "35"
+    },
+    {
+      "id": "1011",
+      "unlock_type": "1",
+      "unlock_content": "11",
+      "stage": "45"
+    },
+    {
+      "id": "1012",
+      "unlock_type": "1",
+      "unlock_content": "12",
+      "stage": "55"
+    },
+    {
+      "id": "1013",
+      "unlock_type": "1",
+      "unlock_content": "13",
+      "stage": "70"
+    },
+    {
+      "id": "1014",
+      "unlock_type": "1",
+      "unlock_content": "14",
+      "stage": "85"
+    },
+    {
+      "id": "1015",
+      "unlock_type": "1",
+      "unlock_content": "15",
+      "stage": "105"
+    },
+    {
+      "id": "1016",
+      "unlock_type": "1",
+      "unlock_content": "15",
+      "stage": "125"
+    },
+    {
+      "id": "2001",
+      "unlock_type": "2",
+      "unlock_content": "1",
+      "stage": "1"
+    },
+    {
+      "id": "2002",
+      "unlock_type": "2",
+      "unlock_content": "2",
+      "stage": "2"
+    },
+    {
+      "id": "2003",
+      "unlock_type": "2",
+      "unlock_content": "3",
+      "stage": "4"
+    },
+    {
+      "id": "2004",
+      "unlock_type": "2",
+      "unlock_content": "4",
+      "stage": "7"
+    },
+    {
+      "id": "2005",
+      "unlock_type": "2",
+      "unlock_content": "5",
+      "stage": "15"
+    },
+    {
+      "id": "2006",
+      "unlock_type": "2",
+      "unlock_content": "6",
+      "stage": "23"
+    },
+    {
+      "id": "2007",
+      "unlock_type": "2",
+      "unlock_content": "7",
+      "stage": "38"
+    },
+    {
+      "id": "2008",
+      "unlock_type": "2",
+      "unlock_content": "8",
+      "stage": "50"
+    },
+    {
+      "id": "2009",
+      "unlock_type": "2",
+      "unlock_content": "9",
+      "stage": "65"
+    },
+    {
+      "id": "2010",
+      "unlock_type": "2",
+      "unlock_content": "10",
+      "stage": "80"
+    },
+    {
+      "id": "2011",
+      "unlock_type": "2",
+      "unlock_content": "11",
+      "stage": "95"
+    },
+    {
+      "id": "2012",
+      "unlock_type": "2",
+      "unlock_content": "12",
+      "stage": "105"
+    },
+    {
+      "id": "3001",
+      "unlock_type": "3",
+      "unlock_content": "1",
+      "stage": "0"
+    },
+    {
+      "id": "3002",
+      "unlock_type": "3",
+      "unlock_content": "2",
+      "stage": "10"
+    },
+    {
+      "id": "3003",
+      "unlock_type": "3",
+      "unlock_content": "3",
+      "stage": "40"
+    },
+    {
+      "id": "3004",
+      "unlock_type": "3",
+      "unlock_content": "4",
+      "stage": "100"
+    }
+  ]
+}

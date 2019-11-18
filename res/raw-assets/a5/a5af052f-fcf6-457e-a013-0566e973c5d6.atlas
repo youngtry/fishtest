@@ -1,0 +1,13 @@
+
+fish11.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish11
+  rotate: false
+  xy: 2, 2
+  size: 536, 198
+  orig: 536, 198
+  offset: 0, 0
+  index: -1

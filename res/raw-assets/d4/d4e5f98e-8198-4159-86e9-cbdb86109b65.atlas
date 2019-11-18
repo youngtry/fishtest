@@ -1,0 +1,27 @@
+
+fish.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/图层 12（合并）
+  rotate: false
+  xy: 164, 2
+  size: 160, 58
+  orig: 162, 60
+  offset: 1, 1
+  index: -1
+images/图层 2
+  rotate: false
+  xy: 2, 2
+  size: 160, 58
+  orig: 162, 60
+  offset: 1, 1
+  index: -1
+images/图层 6（合并）
+  rotate: false
+  xy: 2, 62
+  size: 743, 192
+  orig: 745, 194
+  offset: 1, 1
+  index: -1

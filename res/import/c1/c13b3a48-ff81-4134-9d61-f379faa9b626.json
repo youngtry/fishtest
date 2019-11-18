@@ -1,0 +1,58 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bullet",
+  "json": [
+    {
+      "type": "1",
+      "cd": "500",
+      "range": "500",
+      "speed": "1000",
+      "damage_fix": "20000",
+      "radius": "0",
+      "round": "0",
+      "round_time": "0",
+      "speed_fix": "0",
+      "speed_fix_time": "0",
+      "remarks": "标准捕鱼器子弹"
+    },
+    {
+      "type": "2",
+      "cd": "500",
+      "range": "500",
+      "speed": "1000",
+      "damage_fix": "20000",
+      "radius": "50",
+      "round": "0",
+      "round_time": "0",
+      "speed_fix": "0",
+      "speed_fix_time": "0",
+      "remarks": "扩散捕鱼器子弹"
+    },
+    {
+      "type": "3",
+      "cd": "500",
+      "range": "500",
+      "speed": "1000",
+      "damage_fix": "10000",
+      "radius": "50",
+      "round": "1000",
+      "round_time": "5000",
+      "speed_fix": "0",
+      "speed_fix_time": "0",
+      "remarks": "持续捕鱼器子弹"
+    },
+    {
+      "type": "4",
+      "cd": "500",
+      "range": "500",
+      "speed": "1000",
+      "damage_fix": "20000",
+      "radius": "50",
+      "round": "1000",
+      "round_time": "5000",
+      "speed_fix": "30",
+      "speed_fix_time": "5000",
+      "remarks": "冰冻捕鱼器子弹"
+    }
+  ]
+}

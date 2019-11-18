@@ -1,0 +1,34 @@
+
+fish08.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 522, 252
+  orig: 524, 254
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 526, 194
+  size: 226, 60
+  orig: 228, 62
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 526, 122
+  size: 60, 70
+  orig: 62, 72
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 754, 194
+  size: 60, 70
+  orig: 62, 72
+  offset: 1, 1
+  index: -1

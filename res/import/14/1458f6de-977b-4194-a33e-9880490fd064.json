@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet1",
+    "texture": "b2KAsVBbJAWpa4PKWHkT79",
+    "rect": [
+      2,
+      2,
+      239,
+      124
+    ],
+    "offset": [
+      -6.5,
+      0
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

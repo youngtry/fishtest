@@ -1,0 +1,63 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "drawgold",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "drawgold",
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "7a/QZLET9IDreTiBfRn2PD"
+          }
+        ],
+        "defaultAnimation": 1,
+        "_preCacheMode": 0,
+        "_animationName": 1,
+        "_N$skeletonData": {
+          "__uuid__": "06+DszoyFJCYBkvKlC2jq0"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "a79BPyEz1MfKBRM6U5UrNO"
+      },
+      "fileId": "23JGXF64BM9qoMYpD1e3K7"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 60.01,
+      "height": 62.62
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        375,
+        667,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.36000001430511475,
+        0.36000001430511475,
+        0.36000001430511475
+      ]
+    }
+  }
+]

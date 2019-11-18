@@ -1,0 +1,235 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "tower",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "tower",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "bebd489Nh5GyKo6/OLi0wFN",
+        "node": {
+          "__id__": 1
+        },
+        "levelabel": {
+          "__id__": 5
+        },
+        "scene": {
+          "__id__": 1
+        },
+        "fort": {
+          "__id__": 2
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "0c7lvYysJFK7Ks/P1lqnAx"
+      },
+      "fileId": "90M0xwxVtPp48wGkH3xOIQ"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 246,
+      "g": 246,
+      "b": 250
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 90,
+      "height": 110
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "fort1",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "0c7lvYysJFK7Ks/P1lqnAx"
+      },
+      "fileId": "a55qQrWAtOaaBZPIQlPj3h"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 396.13,
+      "height": 603
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        0,
+        1.7910000085830688,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.1940000057220459,
+        0.1940000057220459,
+        0.1940000057220459
+      ]
+    }
+  },
+  {
+    "__type__": "cc.PrivateNode",
+    "_name": "DEBUG_DRAW_NODE",
+    "_objFlags": 1024,
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Graphics",
+        "node": {
+          "__id__": 3
+        },
+        "_materials": [
+          {
+            "__uuid__": "6fgBCSDDdPMInvyNlggls2"
+          }
+        ],
+        "_lineWidth": 2,
+        "_strokeColor": {
+          "__type__": "cc.Color",
+          "r": 255
+        },
+        "_fillColor": {
+          "__type__": "cc.Color",
+          "g": 255
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "0c7lvYysJFK7Ks/P1lqnAx"
+      },
+      "fileId": "9bsjHBde9MPo0HNmk5YEH1"
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_zIndex": -32768
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "level",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 5
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "0c7lvYysJFK7Ks/P1lqnAx"
+      },
+      "fileId": "fb1qA2+D1FAoMp0S4WaQ5k"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 16.68,
+      "height": 50.4
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        0,
+        1.8029999732971191,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 4
+    },
+    "_materials": [
+      {
+        "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+      }
+    ],
+    "_useOriginalSize": false,
+    "_string": "1",
+    "_N$string": "1",
+    "_fontSize": 30,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  }
+]

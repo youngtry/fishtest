@@ -1,0 +1,138 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "Bullet",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Bullet",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "fc866EjBCVA2o/a+aqj+xdS",
+        "node": {
+          "__id__": 1
+        },
+        "bullet": {
+          "__id__": 3
+        }
+      },
+      {
+        "__type__": "cc.BoxCollider",
+        "node": {
+          "__id__": 1
+        },
+        "_size": {
+          "__type__": "cc.Size",
+          "width": 7,
+          "height": 15
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "1bQ9Ad1YpCLauQW3bEQHyA"
+      },
+      "fileId": "92L8RQbc1F0KQMT7loma9E"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 250,
+      "g": 1,
+      "b": 71
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 7,
+      "height": 15
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bullet1",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "1bQ9Ad1YpCLauQW3bEQHyA"
+      },
+      "fileId": "98ieSKmkNO8pU3KOtDZHtD"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 19.52,
+      "height": 39.48
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float32Array",
+      "array": [
+        0,
+        -2.486999988555908,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.4790000021457672,
+        0.4790000021457672,
+        0.4790000021457672
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "node": {
+      "__id__": 2
+    },
+    "_materials": [
+      {
+        "__uuid__": "7a/QZLET9IDreTiBfRn2PD"
+      }
+    ],
+    "defaultAnimation": 1,
+    "_preCacheMode": 1,
+    "_cacheMode": 1,
+    "_animationName": 1,
+    "_N$skeletonData": {
+      "__uuid__": "051vmuYBhKWKY/6Wju1af8"
+    }
+  }
+]
